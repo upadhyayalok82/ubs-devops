@@ -8,3 +8,4 @@ pull fail demo
 query
 stale review demo
 resolving conflictchanges from master
+resolving conflicthello choudhary
