@@ -47,12 +47,12 @@ makes the history more readable
 git reset commit_id
 ```
 
-
-Method    Source    Target
-Merge     LB        LB
-Pull      RB        LB
-Push      LB        RB
-PullRQ    RB        RB
-
+```
+  Method    Source    Target
+- Merge     LB        LB
+- Pull      RB        LB
+- Push      LB        RB
+- PullRQ    RB        RB
+```
 
 
