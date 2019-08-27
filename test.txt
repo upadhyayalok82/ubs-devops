@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 yooo.c
-=======
 Test file
->>>>>>> 884cc34a1eaaf12f8bca9f1a2f536beb61b24817
