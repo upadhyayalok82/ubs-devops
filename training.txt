@@ -7,4 +7,4 @@ demo 1
 pull fail demo
 query
 stale review demo
-resolving conflict
+resolving conflicthello choudhary
