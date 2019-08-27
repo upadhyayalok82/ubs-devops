@@ -55,4 +55,7 @@ git reset commit_id
 - PullRQ    RB        RB
 ```
 
-
+List tags
+```
+git tag
+```
