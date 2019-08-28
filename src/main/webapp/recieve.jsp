@@ -18,11 +18,11 @@
       <li><p><b>Price:</b>
          <%= request.getParameter("price")%>
       </p></li>
-      
-      
+
+
 
       <h3>Thanks for Working With</h3>
-      <h4> Jai, Kapil & Rajat</h4>
+      <h4><u style="color: #d82121;">Jai, Kapil & Rajat</u></h4>
    </ul>
 
 </body>
