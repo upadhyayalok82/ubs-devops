@@ -8,7 +8,7 @@
 	<form name="login" action="login.jsp">
 		Username<input type="text" name="userid" /> 
 		Password<input type="password" name="pswrd" /> 
-		<input type="checkbox" value="1"> Remember Me
+		<input type="checkbox" value="1">Duaaon mein Remember Me
 		<input type="submit" value="Login" />
 		<a href="#">Forgot Password!</a>
 	</form>
