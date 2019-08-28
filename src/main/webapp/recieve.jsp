@@ -18,8 +18,11 @@
          <li><p><b>Price:</b>
             <%= request.getParameter("price")%>
          </p></li>
+         
+         
 
-
+		<h3>Thanks for Working With</h3>
+		<h4> Jai and Kapil </h4>
       </ul>
 
    </body>
