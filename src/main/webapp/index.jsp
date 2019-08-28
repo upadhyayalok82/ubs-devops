@@ -4,7 +4,7 @@
 </head>
 <body>
 	<h1 style="font-family: Comic Sans Ms;text-align="center";font-size:20pt;
-	color:#00FF00;>Login Page</h1>
+	color:#00FF00;>Login Page for Demo</h1>
 	<form name="login" action="login.jsp">
 		Username<input type="text" name="userid" /> 
 		Password<input type="password" name="pswrd" /> 
