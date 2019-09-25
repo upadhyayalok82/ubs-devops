@@ -1,0 +1,4 @@
+cd target/sonar
+$ceTaskId = ((Get-Content ./report-task.txt | Select-String 'ceTaskId' -SimpleMatch) -split "=")[1]
+$analysisId = (curl -i -u 5eaba21a3d1deda75c9900d2d81e336797346e63: https://sonarcloud.io/api/ce/task?id=$ceTaskId | grep -i SUCCESS | ConvertFrom-Json).task.analysisId
+curl -i -u 5eaba21a3d1deda75c9900d2d81e336797346e63: https://sonarcloud.io/api/qualitygates/project_status?analysisId=$analysisId
